@@ -1,1 +1,13 @@
-# Automated-Invoice-Generator
+# Automated Invoice Generator
+
+## Description
+This Python project is a simple implementation of automated invoice generator.
+
+## Features
+- Easy to use
+- Cross-platform compatibility
+- Open-source
+
+## How to Run
+1. Install Python (if not installed).
+2. Run `python main.py` to start the application.
